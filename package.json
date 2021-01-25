@@ -37,7 +37,7 @@
     "devDependencies": {
         "@types/leaflet": "^1.5.19",
         "babel-core": "^6.26.3",
-        "gulp": "^3.9.1",
+        "gulp": "^4.0.2",
         "gulp-autoprefixer": "^5.0.0",
         "gulp-better-rollup": "^3.3.0",
         "gulp-concat": "^2.6.1",
