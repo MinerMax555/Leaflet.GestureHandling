@@ -282,5 +282,3 @@ export var GestureHandling = L.Handler.extend({
 });
 
 L.Map.addInitHook("addHandler", "gestureHandling", GestureHandling);
-
-export default GestureHandling;
