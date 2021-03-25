@@ -1,7 +1,7 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
-    typeof define === 'function' && define.amd ? define('leafletGestureHandling', ['exports'], factory) :
-    (global = global || self, factory(global.leafletGestureHandling = {}));
+    typeof define === 'function' && define.amd ? define(['exports'], factory) :
+    (global = global || self, factory(global['leaflet-gesture-handling'] = {}));
 }(this, (function (exports) { 'use strict';
 
     var LanguageContent = {
@@ -717,3 +717,4 @@
     Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
+//# sourceMappingURL=leaflet-gesture-handling.js.map

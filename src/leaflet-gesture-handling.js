@@ -2,7 +2,7 @@
 * * Leaflet Gesture Handling **
 * * Version 1.1.8
 */
-import LanguageContent from "./language-content";
+import LanguageContent from "./locales";
 
 L.Map.mergeOptions({
     gestureHandlingOptions: {
